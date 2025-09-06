@@ -10,3 +10,6 @@ docker-compose up -d
 Dockerfile
 docker Images
 docker containers
+
+## Docker-compose
+Adding docker compose for the docker files.
